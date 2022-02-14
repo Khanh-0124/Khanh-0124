@@ -14,7 +14,7 @@
 
 **
 
-## [MyMusic](https://khanh-0124.github.io/Music3_JS/)
+## [MyMusic (pc web)](https://khanh-0124.github.io/Music3_JS/)
 
 **
 <img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

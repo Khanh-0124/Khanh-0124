@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Javscript, React-Native, HTML, CSS. 
 - 📫 How to reach me: FB: Khánh(Zùa)
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...k
 - ⚡ Fun fact: Hate anyone who interrupts
 -->

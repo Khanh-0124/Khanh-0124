@@ -8,6 +8,6 @@
 - 💬 Ask me about Javscript, React-Native, HTML, CSS. 
 - 📫 How to reach me: [Facebook: Khánh(Zùa)](https://www.facebook.com/khanh0124), [YouTube](https://www.youtube.com/channel/UCU2ESMD1XlHzwBAvXF1BtYw), 
 [Instagram](https://www.instagram.com/khanh.0124/)
-- 😄 Pronouns: ...k
+- 😄 Pronouns: Khánh Zùa, He, His :>
 - ⚡ Fun fact: Hate anyone who interrupts
 

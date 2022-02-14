@@ -10,5 +10,5 @@
 [Instagram](https://www.instagram.com/khanh.0124/)
 - 😄 Pronouns: Khánh Zùa, He, His :> ~~khánh~~
 - ⚡ Fun fact: Hate anyone who interrupts
-- <img src"https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src"https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

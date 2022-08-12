@@ -15,12 +15,10 @@
 
 ## [MyMusic App](https://khanh-0124.github.io/music_layer_JS/) 
 ## [Personal-page](https://khanh-0124.github.io/personal-page/) 
-## [MyMusic App(open on PC)](https://khanh-0124.github.io/Music3_JS/) 
 ## [Photos rotate 360 ​​degrees](https://khanh-0124.github.io/Img360/) 
-## [Clock(open on PC)](https://khanh-0124.github.io/Clock_JS/) 
+## [Clock](https://khanh-0124.github.io/Clock_JS/) 
 ## [Calculator](https://khanh-0124.github.io/CALCULATOR_JS/) 
 ## [Animation Car](https://khanh-0124.github.io/CAR/) 
-## [Info-Personal](https://khanh-0124.github.io/QR_Personal/) 
 ## [UI WEB HaUI](https://khanh-0124.github.io/DCN/)
 
 **

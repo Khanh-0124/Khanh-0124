@@ -11,8 +11,6 @@
 **
 
 ## [MyMusic App](https://khanh-0124.github.io/music_layer_JS/) 
-## [Personal-page](https://khanh-0124.github.io/personal-page/) 
-## [Photos rotate 360 ​​degrees](https://khanh-0124.github.io/Img360/) 
 ## [Clock](https://khanh-0124.github.io/Clock_JS/) 
 ## [Animation Car](https://khanh-0124.github.io/CAR/) 
 ## [UI WEB HaUI](https://khanh-0124.github.io/DCN/)
